@@ -51,3 +51,4 @@
   - https://graphdsl.github.io
   - https://graphdsl.github.io/getting-started
   - https://graphdsl.github.io/api/gradle-plugin
+  - https://kristileka.dev
